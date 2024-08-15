@@ -12,10 +12,10 @@ val artSpaceObjectsInit = arrayOf(
     ),
     ArtSpaceModel(
         image = R.drawable.fgh,
-        title = "Магическая битва 2",
-        description = "Топ аниме и манга 2",
-        author = "Японский 2",
-        year = "2018"
+        title = "Клинок, рассекающий демонов",
+        description = "Эпоха «Тайсё» была полна неожиданностей",
+        author = "Коёхару Готогэ",
+        year = "2016"
     ),
     ArtSpaceModel(
         image = R.drawable.bgcat,
